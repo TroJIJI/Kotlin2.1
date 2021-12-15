@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin2.1</string>
+    <string-array name="category">
+        <item>All</item>
+        <item>Mythology</item>
+        <item>Geography</item>
+        <item>Music</item>
+    </string-array>
+</resources>
